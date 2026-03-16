@@ -28,6 +28,10 @@ We will demonstrate some demos:
 
 - AutoJTAG and MCU's BSDL file software to show real-time changes in specific IO voltage levels of MCU chips during communication between the car and ECU.
 
+![AutoJTAG Hardware 1](/docs/images/autojtag_hardware_1.jpg)
+
+![AutoJTAG Hardware 2](/docs/images/autojtag_hardware_2.jpg)
+
 ## To Be Done
 
 Not all ECUs can extract firmware via AutoJTAG. According to our testing, at least the EDR airbag module ECU has added a password. Tesla's airbag module uses chips from Renesas.
