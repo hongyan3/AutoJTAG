@@ -4,6 +4,12 @@
 
 ![AutoJTAG Hardware Architecture](docs/images/autojtag_hardware_architecture.png)
 
+![Software](/docs/images/software.jpg)
+
+![AutoJTAG Hardware 1](/docs/images/autojtag_hardware_1.jpg)
+
+![AutoJTAG Hardware 2](/docs/images/autojtag_hardware_2.jpg)
+
 Recently, the U.S. government announced an investigation into and prohibition of the sale of internet-connected cars manufactured outside the United States, citing potential national security risks. Whether electric cars are truly secure, with their onboard operating systems collecting sensitive data from both vehicle owners and infrastructure, can be answered through comprehensive security research on all ECUs of electric vehicles.
 
 Tesla is the world's best-selling electric car, with millions sold annually, approximately one every six seconds. Each car owner harbors significant curiosity about the security of their electric vehicle. While Musk has open-sourced the Linux kernel used in Tesla vehicles as well as Roadster this is a commendable move. However, the design blueprints and firmware for Tesla's best-selling Model series ECUs have not yet been open-sourced.
@@ -27,10 +33,6 @@ In summary, we provide a hardware bridge tool for those unfamiliar with hardware
 We will demonstrate some demos:
 
 - AutoJTAG and MCU's BSDL file software to show real-time changes in specific IO voltage levels of MCU chips during communication between the car and ECU.
-
-![AutoJTAG Hardware 1](/docs/images/autojtag_hardware_1.jpg)
-
-![AutoJTAG Hardware 2](/docs/images/autojtag_hardware_2.jpg)
 
 ## To Be Done
 
