@@ -52,7 +52,7 @@ Similarly, UDS services are also a core service for electric vehicle security. R
 
 4. FI Attack RH850: <https://icanhack.nl/blog/rh850-glitch/>
 
-5. Apple iPhone Lightning JTAG Security Research: DEF CON 30 Presentation PDF
+5. Apple iPhone Lightning JTAG Security Research: <https://github.com/stacksmashing/tamarin-cable>
 
 6. Tesla Roadster: <https://service.tesla.com/en-US/vehicle-models/Roadster>
 
